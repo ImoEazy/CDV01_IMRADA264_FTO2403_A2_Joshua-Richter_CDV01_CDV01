@@ -14,7 +14,9 @@ This "Career Goals Reflection" template is designed to assist you in articulatin
 
 By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
 
+
 ### Personal Information
+
 
 - **Name:**
 - **Date:**
